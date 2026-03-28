@@ -43,10 +43,10 @@
 
 <h2>🧑‍💻 Contact me</h2>
 <div align="center">
-  <a href="https://www.instagram.com/yevvonii_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a><br>
-  <a href="https://velog.io/@aeongiing/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a><br>
-  <a href="https://blog.naver.com/aeongiing"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a><br>
-  <a href="https://ywjeong.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a><br>
+  <a href="https://www.instagram.com/yevvonii_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://velog.io/@aeongiing/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+  <a href="https://blog.naver.com/aeongiing"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+  <a href="https://ywjeong.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
   <a href="mailto:ywjk0515@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
 </div>
