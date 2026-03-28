@@ -21,10 +21,6 @@
 
 <br>
 <div align="center">
-<h1>애옹슨입니다</h1>
-<h3>우리 모두 재미지게 살아요 다들</h3>
-
-<br>
 <h2>🛠️ Tech Stacks</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
