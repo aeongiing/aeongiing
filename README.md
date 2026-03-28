@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dac0f7,100:ffbebd&height=240&text=Aeong...%20Aeong...&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%"/>
 </div>
+<div align="center">
 <h1>애옹슨입니다</h1>
 <h3>우리 모두 재미지게 살아요 다들</h3>
+<br></div>
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/aeongiing" width="49%"/>
