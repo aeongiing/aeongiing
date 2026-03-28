@@ -5,6 +5,12 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 애옹슨입니다 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 헬로우 </div> 
     </div>
+    
+<div align = "center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/aeongiing"/>
+</a>
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
