@@ -1,16 +1,16 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dac0f7,100:ffbebd&height=240&text=Aeong...%20Aeong...&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%"/>
     </div>
+    <div align = "center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/aeongiing"/>
+</a>
+</div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 애옹슨입니다 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 헬로우 </div> 
     </div>
     
-<div align = "center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/aeongiing"/>
-</a>
-</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -42,12 +42,3 @@
     </div>
     <!-- <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>  </div> -->
-
-<hr>
-<br>
-
-<div align = "center">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/aeongiing"/>
-</a>
-</div>
