@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dac0f7,100:ffbebd&height=240&text=Aeong...%20Aeong...&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dac0f7,100:ffbebd&height=240&text=Hello
+    Hello👋 Welcome to%20Yewon's GitHub&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%"/>
 </div>
 <div align="center">
 <h1>애옹슨입니다</h1>
