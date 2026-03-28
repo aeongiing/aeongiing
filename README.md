@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6d2f9,100:fdc9ca&height=180&text=Yewon's%20GitHub%20🫧&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%"/>
-<h2> Hi👋</h2>h2>
+<h2> Hi👋</h2>
 <h4>I'm Yewon Jeong (Zoey)</h4>
 </div>
 <div align="center">
