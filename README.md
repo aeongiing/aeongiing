@@ -7,6 +7,7 @@
     <img src="https://render.gitanimals.org/farms/aeongiing"/>
   </a>
 </div>
+<br>
 <div align="center">
 <h1>애옹슨입니다</h1>
 <h3>우리 모두 재미지게 살아요 다들</h3>
