@@ -6,7 +6,16 @@
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/aeongiing"/>
   </a>
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/825694059957404943/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 </div>
+
 <br>
 <div align="center">
 <h1>애옹슨입니다</h1>
