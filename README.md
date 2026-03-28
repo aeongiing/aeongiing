@@ -1,6 +1,5 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dac0f7,100:ffbebd&height=240&text=Aeong...%20Aeong...&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%"/>
-    </div>
     <div align = "center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/aeongiing"/>
@@ -42,3 +41,4 @@
     </div>
     <!-- <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>  </div> -->
+</div>
