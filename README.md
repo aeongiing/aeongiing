@@ -13,7 +13,7 @@
 </div>
 <br>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aeongiing&theme=tokyonight-duo&border_radius=12&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aeongiing&theme=cobalt&border_radius=12&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <br>
