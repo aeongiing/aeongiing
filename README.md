@@ -6,6 +6,7 @@
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/aeongiing" width="49%"/>
   </a>
+   &nbsp;
   <a href="https://www.gitanimals.org/">
     <img src="https://render.gitanimals.org/guilds/825694059957404943/draw" width="49%"/>
   </a>
