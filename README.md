@@ -12,7 +12,7 @@
 <h3>우리 모두 재미지게 살아요 다들</h3>
 
 <br>
-
+<div align="center">
 <h2>🛠️ Tech Stacks</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -37,4 +37,5 @@
   <a href="https://blog.naver.com/aeongiing"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a><br>
   <a href="https://ywjeong.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a><br>
   <a href="mailto:ywjk0515@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</div>
 </div>
