@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6d2f9,100:fdc9ca&height=180&text=Yewon's%20GitHub%20🫧&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%"/>
 <h2> 🌷 Yewon Jeong (ZOEY) 🌷</h2>
-<h4>FRONTEND DEVELOPER from INHA Univ.🌈</h4>
+<h4>FRONTEND DEVELOPER from INHA Univ🌈</h4>
 </div>
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
