@@ -12,8 +12,6 @@
   </a>
 </div>
 </div>
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=aeongiing&theme=tokyonight-duo&border_radius=12&mode=weekly)](https://git.io/streak-stats)
 
 <br>
 <div align="center">
@@ -47,3 +45,5 @@
   <a href="mailto:ywjk0515@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aeongiing&theme=tokyonight-duo&border_radius=12&mode=weekly)](https://git.io/streak-stats)
