@@ -11,6 +11,7 @@
     <img src="https://render.gitanimals.org/guilds/825694059957404943/draw" width="49%"/>
   </a>
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aeongiing&theme=tokyonight-duo&border_radius=12&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 <br>
