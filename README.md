@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6d2f9,100:fdc9ca&height=180&text=Yewon's%20GitHub%20🫧&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%"/>
-<h1>WELCOME TO MY GITHUB !</h1>
+<h1>WELCOME TO MY GITHUB 👋</h1>
     <h4>FRONTEND DEVELOPER</h4>
 <br></div>
 <div align="center">
