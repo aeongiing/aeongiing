@@ -10,7 +10,7 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">애옹슨입니다</h2>
-  <div style="font-weight: 700; font-size: 15px; color: #282d33;">헬로우</div>
+  <div style="font-weight: 700; font-size: 15px; color: #282d33;">우리 모두 재미지게 살아요 다들</div>
 </div>
 
 <div style="text-align: left;">
