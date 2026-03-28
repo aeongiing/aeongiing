@@ -8,12 +8,12 @@
   </a>
 </div>
 
-<h1><font color="#b5459a">애옹슨입니다</font></h1>
-<h3><font color="#9b59b6">우리 모두 재미지게 살아요 다들</font></h3>
+<h1>애옹슨입니다</h1>
+<h3>우리 모두 재미지게 살아요 다들</h3>
 
 <br>
 
-<h2><font color="#b5459a">🛠️ Tech Stacks</font></h2>
+<h2>🛠️ Tech Stacks</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </div>
 
-<h2><font color="#b5459a">🧑‍💻 Contact me</font></h2>
+<h2>🧑‍💻 Contact me</h2>
 <div align="center">
   <a href="https://www.instagram.com/yevvonii_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a><br>
   <a href="https://velog.io/@aeongiing/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a><br>
