@@ -42,5 +42,5 @@
     
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{aeongiing}"/>
+  <img src="https://render.gitanimals.org/farms/aeongiing"/>
 </a>
